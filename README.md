@@ -4,7 +4,9 @@
 
 ![](/assets/logo-sei.png)
 
-### _Versão 2.5.2_
+### _Versão 2.5.2 _
+
+
 
 ---
 
